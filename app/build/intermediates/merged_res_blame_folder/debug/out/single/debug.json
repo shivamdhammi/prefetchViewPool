@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/layout_item_recycler_view.xml.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/layout/item_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.demoandroidapp-merged_res-35:/layout_item_recycler_view.xml.flat",
+        "source": "com.example.demoandroidapp-main-37:/layout/item_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

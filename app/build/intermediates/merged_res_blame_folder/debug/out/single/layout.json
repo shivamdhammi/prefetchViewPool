@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.demoandroidapp-mergeDebugResources-34:/layout/item_recycler_view.xml",
+        "source": "com.example.demoandroidapp-main-37:/layout/item_recycler_view.xml"
+    },
+    {
+        "merged": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-mergeDebugResources-34:/layout/item_recycler_view.xml",
+        "source": "/Users/shivamdhammi/.gradle/daemon/7.3.3/com.example.demoandroidapp-main-37:/layout/item_recycler_view.xml"
+    }
+]
